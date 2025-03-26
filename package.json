@@ -17,6 +17,7 @@
   "homepage": "https://github.com/gabriel-saraiva-flooxai/nodejs-basics#readme",
   "description": "",
   "dependencies": {
+    "consign": "^0.1.6",
     "express": "^4.21.2"
   }
 }
